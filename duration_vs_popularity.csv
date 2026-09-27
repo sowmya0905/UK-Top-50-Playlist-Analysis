@@ -1,0 +1,4 @@
+duration_category,mean,median
+Long (>4 min),85.1578021978022,87.0
+Medium (2.5-4 min),86.97162049573005,89.0
+Short (<2.5 min),87.762270699058,89.0
