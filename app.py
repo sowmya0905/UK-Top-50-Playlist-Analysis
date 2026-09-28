@@ -21,7 +21,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/UK_Top50_Cleaned.csv")
+    df = pd.read_csv("UK_Top50_Cleaned.csv")  
 
     df["date"] = pd.to_datetime(df["date"])
 
